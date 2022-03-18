@@ -1,0 +1,10 @@
+{
+    "token": "Bot Tokeni",
+    "prefix": "Bot Prefixi (Önemi Yok)",
+    "serverid": "Botun Kullanılacağı Sunucu IDsi",
+    "abonerol": "Abone Rolünün IDsi",
+    "yetkilirol": "Komutu kullanabilecek rolün IDsi",
+    "log": "Rol verilince/alınınca log düşecek kanal IDsi"
+
+
+}
